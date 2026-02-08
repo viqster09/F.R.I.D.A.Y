@@ -134,15 +134,37 @@ Cela va exécuter la commande sfc /scannow et vérifier l'intégrité des fichie
 
 Vous êtes invité à contribuer au projet ! Si vous avez des idées d'amélioration ou des fonctionnalités à ajouter, vous pouvez créer une Pull Request ou soumettre un issue.
 
-Forkez le repo.
+Comment contribuer ?
 
-Créez une branche pour votre fonctionnalité (git checkout -b feature-xyz).
+Si vous voulez apporter des modifications au projet, voici les étapes à suivre avec Git.
 
-Commitez vos changements (git commit -am 'Ajout de la fonctionnalité XYZ').
+Forkez le repo sur GitHub (cliquez sur le bouton "Fork" en haut à droite de la page du projet).
 
-Push sur votre branche (git push origin feature-xyz).
+Clonez votre fork localement :
 
-Ouvrez une Pull Request.
+git clone https://github.com/votre-utilisateur/vocal-assistant.git
+cd vocal-assistant
+
+
+Créez une nouvelle branche pour votre fonctionnalité :
+
+git checkout -b feature/ma-nouvelle-fonctionnalité
+
+
+Faites vos modifications : Ajoutez ou modifiez les fichiers comme bon vous semble.
+
+Committez vos changements :
+
+git add .
+git commit -m "Ajout de ma nouvelle fonctionnalité"
+
+
+Pushez vos modifications vers GitHub :
+
+git push origin feature/ma-nouvelle-fonctionnalité
+
+
+Ouvrez une Pull Request sur GitHub en cliquant sur "New Pull Request".
 
 📜 Licence
 
