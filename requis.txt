@@ -10,3 +10,4 @@ sounddevice
 comtypes
 pycaw
 speech_recognition
+webbrowser
