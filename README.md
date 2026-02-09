@@ -18,14 +18,7 @@ Et plus encore ! Il suffit de parler à votre ordinateur, et il exécutera vos c
 
 📦 Prérequis
 
-Avant de lancer le projet, assurez-vous d'avoir Python 3.x installé et quelques modules Python spécifiques.
-
-1. Installer Python 3.x (si ce n'est pas déjà fait)
-
-Téléchargez Python depuis le site officiel : https://www.python.org/downloads/
- 🚀
-
-2. Installer les dépendances
+Installer les dépendances
 
 Vous pouvez installer toutes les dépendances nécessaires en une seule commande. Ouvrez votre terminal/bash et entrez :
 
