@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pyperclip
+keyboard
+langdetect
+translate
+pyttsx3
+spacy
+sounddevice
+comtypes
+pycaw
+speech_recognition
